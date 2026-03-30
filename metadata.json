@@ -1,0 +1,5 @@
+{
+  "name": "Concatenation Construction Lab with Simulator",
+  "description": "An interactive tool to experiment with the concatenation construction for creating an NFA accepting the concatenation of the languages of two input NFAs",
+  "requestFramePermissions": []
+}
